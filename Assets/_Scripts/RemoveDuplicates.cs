@@ -54,7 +54,7 @@ public class RemoveDuplicates : MonoBehaviour
         {
             sw.Write(item);
         }
-		//测试上传
+	//测试上d传
         sw.Close();
     }
 }
